@@ -10862,23 +10862,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CRod\\.nuget\\packages\\": {},
+    "C:\\Users\\chris.rodriguez\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRod\\Desktop\\Programming\\GitHub\\expense-dotnet\\Expense Tracker.csproj",
+      "projectUniqueName": "C:\\Users\\chris.rodriguez\\Documents\\GitHub\\expense-dotnet\\Expense Tracker.csproj",
       "projectName": "Expense Tracker",
-      "projectPath": "C:\\Users\\CRod\\Desktop\\Programming\\GitHub\\expense-dotnet\\Expense Tracker.csproj",
-      "packagesPath": "C:\\Users\\CRod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRod\\Desktop\\Programming\\GitHub\\expense-dotnet\\obj\\",
+      "projectPath": "C:\\Users\\chris.rodriguez\\Documents\\GitHub\\expense-dotnet\\Expense Tracker.csproj",
+      "packagesPath": "C:\\Users\\chris.rodriguez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris.rodriguez\\Documents\\GitHub\\expense-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CRod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chris.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10887,6 +10887,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10951,7 +10952,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
